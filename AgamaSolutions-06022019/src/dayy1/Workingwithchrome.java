@@ -25,7 +25,7 @@ public class Workingwithchrome {
 	 }
 	
 	 public void getTitleOfThePage(){
-		 System.out.println("Title of page"+ driver.getTitle());
+		 System.out.println("Title of the page"+ driver.getTitle());
 		 driver.close(); 
 		// driver.quit();
 	 
